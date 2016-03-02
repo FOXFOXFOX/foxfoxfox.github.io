@@ -16,10 +16,12 @@ Tips:
 
 3) Set goals, return to them constantly 
 
-4) Ask so many questions your lab mates put up Do Not Disturb signs
+4) Write a grant proposal, or several 
 
-5) Have a softball project/paper/goal
+5) Ask so many questions your lab mates put up Do Not Disturb signs
 
-6) Learn the language
+6) Have a softball project/paper/goal
 
-7) Move fast and break things
+7) Learn the language
+
+8) Move fast and break things

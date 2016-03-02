@@ -20,4 +20,6 @@ Tips:
 
 5) Have a softball project/paper/goal
 
-5) Move fast and break things
+6) Learn the language
+
+7) Move fast and break things

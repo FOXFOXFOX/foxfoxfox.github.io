@@ -5,8 +5,4 @@ permalink: /about/
 comments: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Hi, my name is Kaitlin Flynn and I'm a junior postdoctoral fellow in the laboratory of Pat Schloss at the University of Michigan Medical School. I recieved my Ph.D. from UMMS in May of 2015 working in the laboratory of Michele Swanson. In my thesis work, I studied antibiotic resistance and evolution of the pathogen *Legionella pneumophila*. This work was primarily genetic engineering of bacteria and infecting my one mutant bacteria into one host cell. For my postdoctoral work, I joined Pat's lab and have jumped into microbial ecology and microbiome analysis. This work is both awesome and intimidating. In contrast to the last 5 years, my new research project involves considering a community of several types of bacteria interacting with a much more complex host (a human or a mouse). Not only that, there are several new sequencing technologies and data analysis pipelines that I'm learning! I hope this blog will someday be a resource or just encouragement for anyone starting to explore this exciting new field :) 

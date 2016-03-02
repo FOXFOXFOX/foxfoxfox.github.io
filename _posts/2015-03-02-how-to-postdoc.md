@@ -5,10 +5,19 @@ date:   2016-03-02
 comments: true
 ---
 
-After finishing my Ph.D. in bacterial geneticts, I changed fields into a microbial ecology and microbiome lab and started as a postdoc in July 2015. Then my PI went on sabbatical for 6 months. Here's what happened next. 
+After finishing my Ph.D. in bacterial genetics, I changed fields into a microbial ecology and microbiome lab and started as a postdoc in July 2015. Then my PI went on sabbatical for 6 months. Here's what happened next. 
 
 
-(background)
-(tips)
-(goals)
-(move fast and break things)
+Tips:
+
+1) Make a potential list of projects or tasks to get started on
+
+2) Think about what you're good at 
+
+3) Set goals, return to them constantly 
+
+4) Ask so many questions your lab mates put up Do Not Disturb signs
+
+5) Have a softball project/paper/goal
+
+5) Move fast and break things

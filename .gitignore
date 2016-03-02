@@ -3,3 +3,4 @@ _site
 /figs/
 _knitr/*.md
 _knitr/*.html
+.Rproj.user
